@@ -1,0 +1,76 @@
+Income (Median family income) for New York by County,,,
+"All Races (includes Hispanic/Latino), Both Sexes, All Ages, 2019-2023",,,
+Sorted by Value,,,
+,,,
+County,FIPS,Value (Dollars),Rank within US (of 3139 counties)
+Bronx County,36005,"59,322","2,883"
+Fulton County,36035,"73,183","2,123"
+Cattaraugus County,36009,"75,127","1,980"
+Franklin County,36033,"75,978","1,918"
+Chautauqua County,36013,"76,149","1,903"
+Delaware County,36025,"76,474","1,870"
+Chenango County,36017,"76,894","1,841"
+Lewis County,36049,"78,095","1,738"
+Allegany County,36003,"80,013","1,591"
+Jefferson County,36045,"80,333","1,573"
+St. Lawrence County,36089,"80,918","1,531"
+Chemung County,36015,"81,566","1,487"
+Yates County,36123,"82,228","1,430"
+Orleans County,36073,"83,039","1,363"
+Broome County,36007,"83,422","1,333"
+Otsego County,36077,"84,415","1,259"
+Oswego County,36075,"84,690","1,245"
+Washington County,36115,"84,756","1,239"
+Schuyler County,36097,"84,851","1,228"
+Wyoming County,36121,"84,930","1,217"
+Essex County,36031,"85,105","1,202"
+Cortland County,36023,"85,316","1,184"
+Cayuga County,36011,"85,449","1,173"
+Montgomery County,36057,"86,028","1,132"
+Steuben County,36101,"86,598","1,100"
+Tioga County,36107,"86,598","1,100"
+Seneca County,36099,"86,917","1,079"
+Kings County,36047,"87,226","1,070"
+Hamilton County,36041,"87,302","1,061"
+Schoharie County,36095,"87,727","1,035"
+Oneida County,36065,"88,011","1,026"
+Sullivan County,36105,"88,086","1,020"
+Niagara County,36063,"88,304","1,000"
+Herkimer County,36043,"88,417",993
+Genesee County,36037,"89,729",919
+Clinton County,36019,"90,354",885
+Livingston County,36051,"93,602",738
+Madison County,36053,"94,317",703
+Wayne County,36117,"94,964",669
+Queens County,36081,"96,052",614
+Erie County,36029,"96,230",607
+Greene County,36039,"96,523",594
+Schenectady County,36093,"98,882",501
+Onondaga County,36067,"98,891",500
+Monroe County,36055,"99,834",473
+Ontario County,36069,"100,623",455
+Warren County,36113,"102,500",402
+Columbia County,36021,"104,645",352
+Ulster County,36111,"110,044",259
+Tompkins County,36109,"111,825",242
+Rensselaer County,36083,"111,952",238
+Orange County,36071,"113,255",220
+Albany County,36001,"115,490",202
+Richmond County,36085,"117,811",182
+Dutchess County,36027,"122,611",142
+Saratoga County,36091,"125,869",122
+Rockland County,36087,"130,026",92
+New York County,36061,"142,014",44
+Putnam County,36079,"144,954",40
+Suffolk County,36103,"147,792",38
+Westchester County,36119,"153,491",27
+Nassau County,36059,"165,692",13
+,,,
+Suggested Citation:,,,
+HDPulse: An Ecosystem of Minority Health and Health Disparities Resources. National Institute on Minority Health and Health Disparities. Created 11/22/2025. Available from https://hdpulse.nimhd.nih.gov,,,
+,,,
+Notes:,,,
+"NA: Data not available [http://hdpulse.nimhd.nih.gov/data/datanotavailable.html] for this combination of geography, cancer site, age, and race/ethnicity.",,,
+Source: Demographic data provided by the Census Bureau (http://www.census.gov/) & the American Community Survey (http://www.census.gov/acs/www/).,,,
+"For more information about Income (Median family income), see the dictionary at http://hdpulse.nimhd.nih.gov/dictionary.php#income.",,,
+"Median Incomes over 250,000 have been coded to 250,001 by the Census Bureau. [ http://www2.census.gov/acs2012_5yr/summaryfile/ACS_2008-2012_SF_Tech_Doc.pdf ]",,,
